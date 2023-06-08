@@ -1,6 +1,6 @@
-#include "Varianta-6.h"
+#include "Varianta-11.h"
 
 int main()
 {
-    rezolvareSub3Problema2();
+    rezolvareSub3Problema4();
 }

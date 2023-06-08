@@ -6,7 +6,7 @@
 using namespace std;
 
 // Pentru Subiectul 3
-// 
+
 // Pentru Problema 2
 
 void tipar(int s[]) {
