@@ -134,11 +134,26 @@
     <Text Include="output.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="functii-varianta-1.h" />
+    <ClInclude Include="functii-varianta-10.h" />
+    <ClInclude Include="functii-varianta-11.h" />
+    <ClInclude Include="functii-varianta-2.h" />
+    <ClInclude Include="functii-varianta-3.h" />
+    <ClInclude Include="functii-varianta-5.h" />
+    <ClInclude Include="functii-varianta-6.h" />
+    <ClInclude Include="functii-varianta-7.h" />
+    <ClInclude Include="functii-varianta-8.h" />
+    <ClInclude Include="functii-varianta-9.h" />
     <ClInclude Include="Varianta-1.h" />
+    <ClInclude Include="Varianta-10.h" />
+    <ClInclude Include="Varianta-11.h" />
     <ClInclude Include="Varianta-2.h" />
     <ClInclude Include="Varianta-3.h" />
     <ClInclude Include="Varianta-5.h" />
     <ClInclude Include="Varianta-6.h" />
+    <ClInclude Include="Varianta-7.h" />
+    <ClInclude Include="Varianta-8.h" />
+    <ClInclude Include="Varianta-9.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
