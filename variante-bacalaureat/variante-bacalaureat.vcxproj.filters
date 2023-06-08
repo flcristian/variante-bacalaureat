@@ -12,6 +12,36 @@
     <Filter Include="Variante">
       <UniqueIdentifier>{8d11981a-6e54-4c4e-b587-e46c7369ef97}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Variante\Varianta 1">
+      <UniqueIdentifier>{5266108b-8d4d-437c-8572-8253c07ac2e7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Variante\Varianta 2">
+      <UniqueIdentifier>{d68d1d93-e46e-4e81-bf51-ba4545e951d5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Variante\Varianta 3">
+      <UniqueIdentifier>{aa30f081-1d93-4255-bcd7-7b113b36a60e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Variante\Varianta 6">
+      <UniqueIdentifier>{4e8936e3-d630-4f62-8b70-3d0070dd0447}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Variante\Varianta 5">
+      <UniqueIdentifier>{fadb3108-46dd-4adf-8a3e-fad8bd792085}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Variante\Varianta 7">
+      <UniqueIdentifier>{73848d7f-3c06-401d-8e2d-43d20234c8a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Variante\Varianta 8">
+      <UniqueIdentifier>{09bfe78a-43ab-4dc2-9711-ef9c07722ee5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Variante\Varianta 9">
+      <UniqueIdentifier>{1c2941ba-c206-49bc-aca0-e6439557eddd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Variante\Varianta 10">
+      <UniqueIdentifier>{5deae709-2924-4af7-a565-d5fca7c26bdd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Variante\Varianta 11">
+      <UniqueIdentifier>{3d5f8359-d809-4cad-b3f9-d27d95ba51ca}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="variante-bacalaureat.cpp">
@@ -28,19 +58,64 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Varianta-1.h">
-      <Filter>Variante</Filter>
+      <Filter>Variante\Varianta 1</Filter>
     </ClInclude>
     <ClInclude Include="Varianta-2.h">
-      <Filter>Variante</Filter>
+      <Filter>Variante\Varianta 2</Filter>
     </ClInclude>
     <ClInclude Include="Varianta-3.h">
-      <Filter>Variante</Filter>
+      <Filter>Variante\Varianta 3</Filter>
     </ClInclude>
     <ClInclude Include="Varianta-5.h">
-      <Filter>Variante</Filter>
+      <Filter>Variante\Varianta 5</Filter>
     </ClInclude>
     <ClInclude Include="Varianta-6.h">
-      <Filter>Variante</Filter>
+      <Filter>Variante\Varianta 6</Filter>
+    </ClInclude>
+    <ClInclude Include="Varianta-7.h">
+      <Filter>Variante\Varianta 7</Filter>
+    </ClInclude>
+    <ClInclude Include="Varianta-8.h">
+      <Filter>Variante\Varianta 8</Filter>
+    </ClInclude>
+    <ClInclude Include="Varianta-9.h">
+      <Filter>Variante\Varianta 9</Filter>
+    </ClInclude>
+    <ClInclude Include="Varianta-10.h">
+      <Filter>Variante\Varianta 10</Filter>
+    </ClInclude>
+    <ClInclude Include="Varianta-11.h">
+      <Filter>Variante\Varianta 11</Filter>
+    </ClInclude>
+    <ClInclude Include="functii-varianta-1.h">
+      <Filter>Variante\Varianta 1</Filter>
+    </ClInclude>
+    <ClInclude Include="functii-varianta-2.h">
+      <Filter>Variante\Varianta 2</Filter>
+    </ClInclude>
+    <ClInclude Include="functii-varianta-3.h">
+      <Filter>Variante\Varianta 3</Filter>
+    </ClInclude>
+    <ClInclude Include="functii-varianta-5.h">
+      <Filter>Variante\Varianta 5</Filter>
+    </ClInclude>
+    <ClInclude Include="functii-varianta-6.h">
+      <Filter>Variante\Varianta 6</Filter>
+    </ClInclude>
+    <ClInclude Include="functii-varianta-7.h">
+      <Filter>Variante\Varianta 7</Filter>
+    </ClInclude>
+    <ClInclude Include="functii-varianta-8.h">
+      <Filter>Variante\Varianta 8</Filter>
+    </ClInclude>
+    <ClInclude Include="functii-varianta-9.h">
+      <Filter>Variante\Varianta 9</Filter>
+    </ClInclude>
+    <ClInclude Include="functii-varianta-10.h">
+      <Filter>Variante\Varianta 10</Filter>
+    </ClInclude>
+    <ClInclude Include="functii-varianta-11.h">
+      <Filter>Variante\Varianta 11</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
