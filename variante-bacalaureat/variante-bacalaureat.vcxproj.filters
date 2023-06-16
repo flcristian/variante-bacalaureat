@@ -42,6 +42,21 @@
     <Filter Include="Variante\Varianta 11">
       <UniqueIdentifier>{3d5f8359-d809-4cad-b3f9-d27d95ba51ca}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Variante\Varianta 12">
+      <UniqueIdentifier>{6e831815-5076-42da-ad16-695e676fdc83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Variante\Varianta 13">
+      <UniqueIdentifier>{86815e01-87cc-4550-963b-5ab0e2da8335}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Variante\Varianta 14">
+      <UniqueIdentifier>{67f64fdc-0d2b-41b9-a8e5-9e26e93946ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Variante\Varianta 15">
+      <UniqueIdentifier>{cf4ca671-f66e-49da-a4bc-6808faa59479}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Variante\Varianta 16">
+      <UniqueIdentifier>{b3898084-6fee-4bb1-9234-c8205f9381af}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="variante-bacalaureat.cpp">
@@ -116,6 +131,36 @@
     </ClInclude>
     <ClInclude Include="functii-varianta-11.h">
       <Filter>Variante\Varianta 11</Filter>
+    </ClInclude>
+    <ClInclude Include="varianta-12.h">
+      <Filter>Variante\Varianta 12</Filter>
+    </ClInclude>
+    <ClInclude Include="functii-varianta-12.h">
+      <Filter>Variante\Varianta 12</Filter>
+    </ClInclude>
+    <ClInclude Include="varianta-13.h">
+      <Filter>Variante\Varianta 13</Filter>
+    </ClInclude>
+    <ClInclude Include="varianta-14.h">
+      <Filter>Variante\Varianta 14</Filter>
+    </ClInclude>
+    <ClInclude Include="varianta-15.h">
+      <Filter>Variante\Varianta 15</Filter>
+    </ClInclude>
+    <ClInclude Include="varianta-16.h">
+      <Filter>Variante\Varianta 16</Filter>
+    </ClInclude>
+    <ClInclude Include="functii-varianta-13.h">
+      <Filter>Variante\Varianta 13</Filter>
+    </ClInclude>
+    <ClInclude Include="functii-varianta-14.h">
+      <Filter>Variante\Varianta 14</Filter>
+    </ClInclude>
+    <ClInclude Include="functii-varianta-15.h">
+      <Filter>Variante\Varianta 15</Filter>
+    </ClInclude>
+    <ClInclude Include="functii-varianta-16.h">
+      <Filter>Variante\Varianta 16</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
