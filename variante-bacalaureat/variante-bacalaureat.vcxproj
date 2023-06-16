@@ -137,6 +137,11 @@
     <ClInclude Include="functii-varianta-1.h" />
     <ClInclude Include="functii-varianta-10.h" />
     <ClInclude Include="functii-varianta-11.h" />
+    <ClInclude Include="functii-varianta-12.h" />
+    <ClInclude Include="functii-varianta-13.h" />
+    <ClInclude Include="functii-varianta-14.h" />
+    <ClInclude Include="functii-varianta-15.h" />
+    <ClInclude Include="functii-varianta-16.h" />
     <ClInclude Include="functii-varianta-2.h" />
     <ClInclude Include="functii-varianta-3.h" />
     <ClInclude Include="functii-varianta-5.h" />
@@ -147,6 +152,11 @@
     <ClInclude Include="Varianta-1.h" />
     <ClInclude Include="Varianta-10.h" />
     <ClInclude Include="Varianta-11.h" />
+    <ClInclude Include="varianta-12.h" />
+    <ClInclude Include="varianta-13.h" />
+    <ClInclude Include="varianta-14.h" />
+    <ClInclude Include="varianta-15.h" />
+    <ClInclude Include="varianta-16.h" />
     <ClInclude Include="Varianta-2.h" />
     <ClInclude Include="Varianta-3.h" />
     <ClInclude Include="Varianta-5.h" />
