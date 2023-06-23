@@ -1,4 +1,4 @@
-#include "Varianta-16.h"
+#include "Varianta-21.h"
 
 int main()
 {
